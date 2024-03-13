@@ -1,6 +1,5 @@
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F72A&random=false&width=435&lines=Architecture&center=true&vCenter=true)](https://git.io/typing-svg)
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=33F72A&amp;random=false&amp;width=435&amp;lines=Architecture&amp;center=true&amp;vCenter=true" alt="Typing SVG"></a></p>
 
 
 <p align="center">

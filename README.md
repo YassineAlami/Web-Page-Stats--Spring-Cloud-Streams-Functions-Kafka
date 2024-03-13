@@ -1,4 +1,3 @@
-ok
 
 <p align="center">
 <a <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F72A&random=false&width=435&lines=Architecture" alt="Typing SVG" /></a>
